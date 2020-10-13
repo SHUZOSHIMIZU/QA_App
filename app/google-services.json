@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669539222897",
+    "firebase_url": "https://qaapp-b034d.firebaseio.com",
+    "project_id": "qaapp-b034d",
+    "storage_bucket": "qaapp-b034d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669539222897:android:c810ad0cd9663a9107e2d0",
+        "android_client_info": {
+          "package_name": "jp.techacademy.shuzo.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669539222897-9vtf125maci7admd76ndheu1skt82vgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjymhxG4GdTswBHziVCGVaORWxZoQRAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669539222897-9vtf125maci7admd76ndheu1skt82vgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
